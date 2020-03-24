@@ -1,0 +1,3 @@
+/Users/marjanlukavyi/Desktop/oop l-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marjanlukavyi/Desktop/oop l-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marjanlukavyi/Desktop/oop l-1/cmake-build-debug/CMakeFiles/oop_l_1.dir
